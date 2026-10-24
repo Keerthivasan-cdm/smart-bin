@@ -35,4 +35,4 @@ An Arduino-controlled smart dustbin that **separates biodegradable and non-biode
 3. Connect the Raspberry Pi's UART (through a level shifter) to the Arduino's RX/TX.
 
 ## Author
-**Keerthivasan J**, B.E. EEE, Sri Sairam Engineering College ([GitHub](https://github.com/Keerthivasan-cdm) · [LinkedIn](https://linkedin.com/in/keerthi-vasan-j))
+**Keerthivasan J**, B.E. EEE, Sri Sairam Engineering College ([GitHub](https://github.com/Keerthivasan-cdm) · [LinkedIn](https://linkedin.com/in/keerthi-vasan-j-))
